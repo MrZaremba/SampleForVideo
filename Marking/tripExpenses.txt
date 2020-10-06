@@ -1,0 +1,1 @@
+TRIP PLAN RECEIPTTransportation: Airplane,Lodging: Hotel,Food: Restaurant;TRIP EXPENSESTransportation Amount: $2000.0,Lodging Amount: $500.0,Food Amount: $600.0,Miscellaneous Amount: $54.0,Your Total: $3154.0;Thank you for using the Trip Expense Planner App!
