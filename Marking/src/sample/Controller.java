@@ -19,5 +19,6 @@ public class Controller {
         Perso perso = new Perso();
         perso.name="test";
         aList.getItems().add(perso);
+        System.out.println("test");
     }
 }
